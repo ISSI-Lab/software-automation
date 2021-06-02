@@ -1,6 +1,6 @@
 # software-automation
 
-System-gen is based on Process and Artifact State Transition Abstraction (PASTA). A tool as well as a theory behind for design, modeling, process, code generation, and product line software development.
+Software-automation is based on Process and Artifact State Transition Abstraction (PASTA). A tool as well as a theory behind for design, modeling, process, code generation, and product line software development.
 
 Introduction: Process and Artifact State Transition Abstraction (PASTA) is a methodology to do process definition, which can be use for work-flow application, and automatic code generation.
 
